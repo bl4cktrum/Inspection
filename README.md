@@ -1,6 +1,8 @@
 # Inspection
 
-This program takes "class inspection" lists with excel extension and aims to reveal a faster process by performing queries with student's name or number with a graphical interface using [Apache POI](https://poi.apache.org/). 
+ This program takes "class inspection" lists with excel extension and aims to reveal a faster process by performing queries with student's name or number with a graphical interface using [Apache POI](https://poi.apache.org/). 
+
+ Since this program is made to order, it is not fully suitable for general use (options such as "platform" have been developed upon user requests).
 
 Usage:<br>
 Option-1
