@@ -2,15 +2,19 @@
 
 This program takes "class inspection" lists with excel extension and aims to reveal a faster process by performing queries with student's name or number with a graphical interface using [Apache POI](https://poi.apache.org/). 
 
-Usage:
+Usage:<br>
+Option-1
 ```
 mvn clean package
-```
+
 After this step, you can have 2 options
-
-```You can use "java -jar /target/inspection-1.0.jar" command```
-
-```or just run the jar file in target folder.``` 
+You can use "java -jar /target/inspection-1.0.jar" command
+or just run the jar file in target folder.
+``` 
+Option-2
+```
+Download inspection.exe file from releases
+```
 
 After these steps, the programs will ask you for an excel file. Select your inspection file and start to use.
   * You can only type one of the student's name or number.
